@@ -97,9 +97,9 @@ https://youtu.be/z7bnzE9h908
 We Need support and contacts with vendors ,businesses and restaurants for testing and release of  our application 
 
 ## How to Install 
-1) Download the apk file [MAPX]([https://drive.google.com/file/d/1oCQCuGt9IoimwUwm_iRfskbVCpvVHJ0j/view?usp=sharing](https://drive.google.com/file/d/1oCQCuGt9IoimwUwm_iRfskbVCpvVHJ0j/view?usp=sharing))and install in your android phone 
+1) Download the apk file [MAPX][https://drive.google.com/file/d/1oCQCuGt9IoimwUwm_iRfskbVCpvVHJ0j/view?usp=sharing] and install in your android phone 
 
-2) Catch all the NFTs
+3) Catch all the NFTs
 
 <img src='./screenshot/prot4.jpg' />
 
